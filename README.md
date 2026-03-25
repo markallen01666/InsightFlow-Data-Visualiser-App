@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-   <img width="1200" height="750" alt="Start Page" src="start screen screenshot.png" />
+   <img width="1200" height="750" alt="Start Page" src="dashboard screenshot.png" />
    <p>&nbsp;</p>
 </div>
 
